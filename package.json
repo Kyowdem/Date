@@ -9,6 +9,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "Kyowdem",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyowdem/Date.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kyowdem/Date/issues"
+  },
+  "homepage": "https://github.com/Kyowdem/Date#readme",
+  "publishConfig": {
+    "@kyowdem:registry": "https://npm.pkg.github.com"
+  }
 }
